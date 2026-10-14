@@ -1,0 +1,7 @@
+{
+  "repository": "https://github.com/bas3line/ascii",
+  "commit": "b2db4f9e126a7e96d083d255e7ae8cb90f3ec106",
+  "license": "MIT",
+  "conversion": "TypeScript types stripped; scene algorithms unchanged",
+  "glyphs": "Noto Sans Mono, rasterized into a four-glyph atlas"
+}

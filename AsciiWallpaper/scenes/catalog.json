@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "alpine-dawn",
+    "name": "alpine dawn",
+    "note": "snow peaks catching first light above a still, misty mountain lake",
+    "cols": 200,
+    "rows": 100,
+    "ground": "#090c18"
+  },
+  {
+    "slug": "aurora-fjord",
+    "name": "aurora fjord",
+    "note": "aurora curtains rippling over a still fjord, a cabin lit on the shore",
+    "cols": 200,
+    "rows": 100,
+    "ground": "#05080f"
+  },
+  {
+    "slug": "deep-reef",
+    "name": "deep reef",
+    "note": "light shafts, swaying kelp and a turning school of fish over a reef",
+    "cols": 200,
+    "rows": 100,
+    "ground": "#03101a"
+  },
+  {
+    "slug": "desert-night",
+    "name": "desert night",
+    "note": "the milky way over a lone acacia on moonless dunes, meteors falling",
+    "cols": 200,
+    "rows": 100,
+    "ground": "#04060c"
+  },
+  {
+    "slug": "earthrise",
+    "name": "earthrise",
+    "note": "the earth rising over a cratered lunar horizon in long low sunlight",
+    "cols": 200,
+    "rows": 100,
+    "ground": "#030408"
+  },
+  {
+    "slug": "kyoto-dusk",
+    "name": "kyoto dusk",
+    "note": "a pagoda at dusk behind a cherry tree lit by a stone lantern",
+    "cols": 200,
+    "rows": 100,
+    "ground": "#0b0a16"
+  },
+  {
+    "slug": "lantern-lake",
+    "name": "lantern lake",
+    "note": "sky lanterns rising over a still mountain lake, one let go from a boat",
+    "cols": 200,
+    "rows": 100,
+    "ground": "#04060d"
+  },
+  {
+    "slug": "marine-drive",
+    "name": "marine drive",
+    "note": "mumbai's queen's necklace at night, lamps curving round the bay",
+    "cols": 200,
+    "rows": 100,
+    "ground": "#07080f"
+  },
+  {
+    "slug": "misty-forest",
+    "name": "misty forest",
+    "note": "pine ridges fading into morning fog, sunbeams slanting through",
+    "cols": 200,
+    "rows": 100,
+    "ground": "#090f0e"
+  },
+  {
+    "slug": "night-coast",
+    "name": "night coast",
+    "note": "a lighthouse turning its beam under moonlit clouds over a dark sea",
+    "cols": 200,
+    "rows": 100,
+    "ground": "#080b12"
+  },
+  {
+    "slug": "ocean-sunset",
+    "name": "ocean sunset",
+    "note": "the sun sets past a pine headland, lit cloud, glitter on rolling sea",
+    "cols": 200,
+    "rows": 100,
+    "ground": "#0b0817"
+  },
+  {
+    "slug": "storm-plains",
+    "name": "storm plains",
+    "note": "an anvil thunderhead at dusk flickering over a wheat field",
+    "cols": 200,
+    "rows": 100,
+    "ground": "#0b0912"
+  },
+  {
+    "slug": "taj-dawn",
+    "name": "taj dawn",
+    "note": "the taj mahal at sunrise, mirrored in its pool through morning haze",
+    "cols": 200,
+    "rows": 100,
+    "ground": "#0d0a13"
+  },
+  {
+    "slug": "tokyo-rain",
+    "name": "tokyo rain",
+    "note": "a tokyo side street in the rain, neon signs shining on the wet road",
+    "cols": 200,
+    "rows": 100,
+    "ground": "#07060d"
+  },
+  {
+    "slug": "varanasi-ghats",
+    "name": "varanasi ghats",
+    "note": "dusk aarti on the ganga, lamps on the steps and diyas on the water",
+    "cols": 200,
+    "rows": 100,
+    "ground": "#0b0812"
+  }
+]

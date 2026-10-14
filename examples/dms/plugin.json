@@ -1,0 +1,14 @@
+{
+  "id": "asciiWallpaper",
+  "name": "ASCII Wallpapers",
+  "description": "Animated ASCII scenes with automatic cycling and still fallbacks.",
+  "version": "0.1.0",
+  "author": "Saket Atreya; scene artwork by bas3line",
+  "type": "daemon",
+  "capabilities": ["daemon"],
+  "icon": "landscape",
+  "components": { "daemon": "./Daemon.qml" },
+  "settings": "./Settings.qml",
+  "requires_dms": ">=1.6.0",
+  "permissions": ["settings_read", "settings_write"]
+}
