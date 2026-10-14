@@ -4,7 +4,7 @@ import Quickshell.Wayland
 
 Scope {
     id: root
-    property Controller controller: Controller {}
+    property Controller controller: defaultController
     property var screens: Quickshell.screens
     property bool visible: true
     property int layer: WlrLayer.Background
@@ -13,6 +13,11 @@ Scope {
     property color tintColor: "#1e1e2e"
     property real tintAmount: 0.16
     property int transitionMs: 50
+
+    Controller {
+        id: defaultController
+        running: root.controller === defaultController
+    }
 
     Variants {
         model: root.screens
